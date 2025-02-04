@@ -219,7 +219,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "Full Stack Developer in Superlabs ( Internship )",
     size: ItemSize.SMALL,
     subtitle:
-      "Developed and optimized Full-stack React applications at Superlabs, had an Opertunity to work with live projects and enhancing user experience through efficient state management and API integrations",
+      "Developed and optimized Full-stack React applications at Superlabs, had an Opertunity to work with live projects and work with API integrations",
     // image: "/timeline/reactindia.svg",
     slideImage: "/timeline/superlabs.png",
     shouldDrawLine: true,
